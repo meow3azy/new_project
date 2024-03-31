@@ -25,4 +25,3 @@ def test_get_val_non_existing_key(self):
 def get_val(data, key, default='git'):
     return data.get(key, default)
 
-asd
